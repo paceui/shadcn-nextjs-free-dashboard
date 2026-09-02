@@ -1,8 +1,29 @@
 {
-  "name": "next",
-  "version": "0.0.1",
+  "name": "shadcn-nextjs-free-dashboard",
+  "version": "1.0.0",
+  "description": "Free and open-source admin dashboard template built with Next.js 16, Tailwind CSS v4, shadcn/ui, and TypeScript.",
   "type": "module",
   "private": true,
+  "author": "Denish (https://paceui.com)",
+  "license": "MIT",
+  "homepage": "https://paceui.com/templates",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paceui/shadcn-nextjs-free-dashboard.git"
+  },
+  "keywords": [
+    "nextjs",
+    "nextjs-16",
+    "shadcn",
+    "shadcn-ui",
+    "tailwindcss",
+    "tailwind-v4",
+    "dashboard",
+    "admin-dashboard",
+    "dashboard-template",
+    "typescript",
+    "paceui"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
